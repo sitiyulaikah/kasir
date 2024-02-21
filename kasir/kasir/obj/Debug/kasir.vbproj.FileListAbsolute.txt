@@ -1,0 +1,97 @@
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\bin\Debug\kasir.exe.config
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\bin\Debug\kasir.exe
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\bin\Debug\kasir.pdb
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\bin\Debug\kasir.xml
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Menu_Utama.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Pelanggan.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Petugas.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Resources.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Produk.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Registrasi.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.vbproj.GenerateResource.Cache
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.exe
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.xml
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.pdb
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Login.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Cari_Produk.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Cari_Pelanggan.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Laporan.resources
+C:\SITI YULAIKAH-11 ACP\kasir\kasir\obj\Debug\kasir.Transaksi.resources
+F:\File persiapan UKK\kasir\kasir\bin\Debug\kasir.exe.config
+F:\File persiapan UKK\kasir\kasir\bin\Debug\kasir.exe
+F:\File persiapan UKK\kasir\kasir\bin\Debug\kasir.pdb
+F:\File persiapan UKK\kasir\kasir\bin\Debug\kasir.xml
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.vbproj.AssemblyReference.cache
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Cari_Pelanggan.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Cari_Produk.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Laporan.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Login.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Menu_Utama.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Pelanggan.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Petugas.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Resources.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Produk.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Registrasi.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.Transaksi.resources
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.vbproj.GenerateResource.cache
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.vbproj.CoreCompileInputs.cache
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.exe
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.xml
+F:\File persiapan UKK\kasir\kasir\obj\Debug\kasir.pdb
+E:\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.exe.config
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.exe
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.xml
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.pdb
+E:\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.exe
+E:\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.pdb
+E:\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.xml
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Cari_Pelanggan.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Cari_Produk.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Laporan.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Login.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Menu_Utama.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Pelanggan.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Petugas.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Resources.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Produk.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Registrasi.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Transaksi.resources
+E:\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.vbproj.GenerateResource.Cache
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.exe.config
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.exe
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.xml
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.pdb
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.exe
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.pdb
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.xml
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Cari_Pelanggan.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Cari_Produk.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Laporan.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Login.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Menu_Utama.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Pelanggan.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Petugas.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Resources.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Produk.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Registrasi.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Transaksi.resources
+C:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.vbproj.GenerateResource.Cache
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.exe.config
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.exe
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.xml
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.pdb
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.exe
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.pdb
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\bin\Debug\kasir.xml
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Cari_Pelanggan.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Cari_Produk.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Laporan.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Login.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Menu_Utama.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Pelanggan.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Petugas.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Resources.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Produk.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Transaksi.resources
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.vbproj.GenerateResource.Cache
+D:\XII-ACP SITI YULAIKAH\Aplikasi UKK\kasir\kasir\obj\Debug\kasir.Menu_Pelanggan.resources
